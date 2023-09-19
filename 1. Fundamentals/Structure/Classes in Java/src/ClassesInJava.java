@@ -4,7 +4,7 @@ public class ClassesInJava
    //The main method; put it as-is in all your codes for now.
    public static void main(String[] args)
    {
-      //This is a comment, ignored by Java.
+      //This is a comment, ignored by Java
       //Place statements here
    }
 }
